@@ -26,6 +26,10 @@ python3 -m venv <envname>
 ```
 and activate the environment for window users using
 
+```
+source ./bin/activate
+
+````
 # Units and Lessons
 ## Unit 4: Unsupervised Learning - Venturing into the unknown
   - Lesson 1: Unsupervised Learning Overview
