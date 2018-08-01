@@ -20,11 +20,11 @@ I am using a Windows 7, Intel 2.70 Ghz, 64-bit Operating System.
 
 ## Setup:
 
-The app uses Python 3.6, and it is recommended that it is run in a python3 virtual environment. Create the virtual environment by running
+The app uses Python 3.6, and it is recommended that it is run in a python3 virtual environment. Create the virtual environment by running the following in window.
 ```
-python3 -m venv <envname>
+python -m venv <envname>
 ```
-and activate the environment for window users using
+and activate the environment for mac/linux users
 
 ```
 source ./bin/activate
