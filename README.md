@@ -5,7 +5,7 @@
 * [Requirements](#requirements)
 
 * [Setup](#setup)
-* [Units/Lessons](#units/lessons)
+* [Units/Lessons](#units-and-lessons)
 * [Example Dataset](#example-dataset)
 
 ## Introduction:
@@ -26,7 +26,7 @@ python3 -m venv <envname>
 ```
 and activate the environment for window users using
 
-## Units/Lessons
+## Units and Lessons
 1.) Unit 4: Unsupervised Learning - Venturing into the unknown
   - Lesson 1: Unsupervised Learning Overview
   - Lesson 2: Basic Clustering
