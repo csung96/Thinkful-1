@@ -5,7 +5,7 @@
 * [Requirements](#requirements)
 
 * [Setup](#setup)
-* [Units/Lesson](#units/lessons)
+* [Units/Lessons](#units/lessons)
 * [Example Dataset](#example-dataset)
 
 ## Introduction:
