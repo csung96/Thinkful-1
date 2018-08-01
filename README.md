@@ -2,14 +2,11 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Requirements](##requirements)
+* [Requirements](#requirements)
 
 * [Setup](#setup)
-* [Units/Lesson](#units/lesson)
+* [Units/Lesson](#units/lessons)
 * [Example Dataset](#example-dataset)
-* [Process](#process)
-* [Authors](#authors)
-
 
 ## Introduction:
 As a ThinkFul Data Science mentor I felt that I should also go through the same exercises as my students. In this github repo I go through the units, lessons, and capstone projects. This is also a way for me to learn the material better as well. I insert some of my other writing and explanations for the topics.
