@@ -1,11 +1,33 @@
-# Thinkful
-Thinkful Data Science Bootcamp
+# Thinkful Data Science
+-------------------------------------------------------------------------------------------------------------------------------------------
+## Table of Contents
+* [Introduction](#introduction)
+* [Requirements](##requirements)
 
-# Summary:
-As ThinkFul Data Science mentor I felt that I should also go through the same exercises as my students. In this github repo I go through the units, lessons, and capstone projects. This is also a way for me to learn the material better as well. I insert some of my other writing and explanations for the topics.
+* [Setup](#setup)
+* [Example Dataset](#example-dataset)
+* [Process](#process)
+* [Authors](#authors)
+* [Voice of Customer](#voice-of-customer)
 
-# How this github repo works:
-You'll want to have Python 3.X installed on your desktop, Juypter notebook, and most of the data science libraires as well, or you can use Anaconda. These libraires are imported at the beginning of each exercise. I am using a Windows 7, Intel 2.70 Ghz, 64-bit Operating System.
+
+## Introduction:
+As a ThinkFul Data Science mentor I felt that I should also go through the same exercises as my students. In this github repo I go through the units, lessons, and capstone projects. This is also a way for me to learn the material better as well. I insert some of my other writing and explanations for the topics.
+
+## Requirements
+# How this repo works:
+You'll want to have Python 3.6 installed on your desktop, Juypter notebook, and most of the data science libraires as well, or you can use Anaconda. These libraires are imported at the beginning of each exercise.
+
+# System:
+I am using a Windows 7, Intel 2.70 Ghz, 64-bit Operating System.
+
+# Setup:
+
+The app uses Python 3.6, and it is recommended that it is run in a python3 virtual environment. Create the virtual environment by running
+```
+python3 -m venv <envname>
+```
+and activate the environment for window users using
 
 # Units/Lessons
 1.) Unit 4: Unsupervised Learning - Venturing into the unknown
