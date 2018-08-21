@@ -25,10 +25,6 @@ The app uses Python 3.6, and it is recommended that it is run in a python3 virtu
 python -m venv <envname>
 ```
 and activate the environment for mac/linux users
-```
-for i in array:
-  print(i)
-```
 
 ```
 source ./bin/activate
